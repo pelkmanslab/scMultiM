@@ -1,0 +1,14 @@
+# Do not edit - changes here will be overwritten by Copier
+_commit: v0.6.0
+_src_path: gh:fractal-analytics-platform/fractal-tasks-template
+author_email: cheng-han.yang@uzh.ch
+author_name: Cheng-Han Yang
+mode: quick
+package_name: scmultim
+project_name: scMultiM
+project_short_description: For single cell multimodal imaging data(ratioRNA-FISH,
+    ratioDNA-FISH, 4I) preprocessing and integration
+project_url: ''
+run_git_init: true
+run_pixi_init_task: false
+
